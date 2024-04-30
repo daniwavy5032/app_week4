@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286209287417",
+    "project_id": "appweek4",
+    "storage_bucket": "appweek4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286209287417:android:e10a69e12d6eed211eae28",
+        "android_client_info": {
+          "package_name": "com.example.complete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93r3OdxXEaXzhsXVqLamLIJm4peaZfTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
